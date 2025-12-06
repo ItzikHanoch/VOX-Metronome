@@ -1,2 +1,2 @@
-# VOX-Metronome-
+# VOX-Metronome
 VOX Metronome
